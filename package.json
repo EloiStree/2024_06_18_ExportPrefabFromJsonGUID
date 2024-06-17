@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.exportprefabfromguid",                              
+  "displayName": "Export Prefab From Json GUID",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This tool allows to export a level compose of prefab from some GUID associated to it.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_06_18_ExportPrefabFromJsonGUID.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
